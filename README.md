@@ -12,7 +12,7 @@ and learning something in the process.
 
 ---
 
-## 🗣️ Languages I Speak with Computers
+## 🗝️ Languages I Speak with Computers
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -21,7 +21,7 @@ and learning something in the process.
 
 ---
 
-## 🛠️ Tools from My Wonderland
+## 🎩 Tools from My Wonderland
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -37,13 +37,12 @@ and learning something in the process.
 
 ## 🕳️ Down the GitHub Hole
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=cupcake&icon_color=FFD700&title_color=FF69B4&text_color=F8F8F2&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=tokyonight&icon_color=FFD700&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
 
 ---
 
-## 📫 Get in Touch
+## 🫖 Get in Touch
 
-[![Gmail](https://img.shields.io/badge/-kilicnehr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilicnehr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehir-kilic/)
 
 ---
