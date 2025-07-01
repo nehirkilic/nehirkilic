@@ -4,8 +4,6 @@ Part-statistician, part-explorer, full-time question asker.
 I live where uncertainty meets curiosity — always calculating the odds.
 
 🎓 Major in Statistics, Minor in Computer Engineering @ Hacettepe University  
-I like making things work, breaking them for fun,  
-and learning something in the process.
 
 > “Just like a magic wand draws its power from the person who wields it,  
 > learning comes from your own determination.”
@@ -25,9 +23,9 @@ and learning something in the process.
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Dev C++](https://img.shields.io/badge/-Dev_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -37,16 +35,13 @@ and learning something in the process.
 
 ## 🕳️ Down the GitHub Hole
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=tokyonight&icon_color=FFD700&title_color=FF69B4&text_color=ffffff&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=algolia)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nehirkilic&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🫖 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehir-kilic/)
-
----
-
-🕶️ Sometimes it feels like Wonderland.  
+Sometimes it feels like Wonderland.  
 Sometimes it feels like the Matrix.  
 Either way, I took the red pill.
