@@ -3,10 +3,7 @@
 Part-statistician, part-explorer, full-time question asker.  
 I live where uncertainty meets curiosity — always calculating the odds.
 
-🎓 Major in Statistics, Minor in Computer Engineering @ Hacettepe University  
-
-> “Just like a magic wand draws its power from the person who wields it,  
-> learning comes from your own determination.”
+🎓 Major in Statistics, Minor in Computer Engineering @ Hacettepe University
 
 ---
 
@@ -42,6 +39,6 @@ I live where uncertainty meets curiosity — always calculating the odds.
 ---
 
 
-Sometimes it feels like Wonderland.  
-Sometimes it feels like the Matrix.  
-Either way, I took the red pill.
+> Sometimes it feels like Wonderland.  
+> Sometimes it feels like the Matrix.  
+> Either way, I took the red pill.
