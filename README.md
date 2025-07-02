@@ -34,8 +34,6 @@ I live where uncertainty meets curiosity — always calculating the odds.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=algolia)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nehirkilic&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-
 ---
 
 
