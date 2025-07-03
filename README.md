@@ -32,8 +32,10 @@ I live where uncertainty meets curiosity — always calculating the odds.
 
 ## 🕳️ Down the GitHub Hole
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehirkilic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehirkilic&theme=buefy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nehirkilic&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nehirkilic&theme=buefy)
 
 
 ---
