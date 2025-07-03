@@ -33,6 +33,7 @@ I live where uncertainty meets curiosity — always calculating the odds.
 ## 🕳️ Down the GitHub Hole
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehirkilic&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehirkilic&layout=compact&theme=algolia)
 
 ---
 
