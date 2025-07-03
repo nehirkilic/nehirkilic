@@ -31,8 +31,7 @@ I live where uncertainty meets curiosity — always calculating the odds.
 ---
 
 ## 🕳️ Down the GitHub Hole
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nehirkilic&theme=bluefy)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nehirkilic&theme=bluefy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehirkilic&theme=buefy)
 
