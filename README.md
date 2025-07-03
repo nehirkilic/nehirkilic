@@ -34,7 +34,7 @@ I live where uncertainty meets curiosity — always calculating the odds.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehirkilic&theme=buefy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=nehirkilic&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nehirkilic&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nehirkilic&theme=buefy)
 
 
