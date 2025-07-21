@@ -1,6 +1,6 @@
 ### 🐇 Hey there — I’m Nehir
 
-Part statistician, part explorer, full-time question asker.
+Part statistician, part explorer, full-time question asker.  
 I live at the edge of uncertainty and curiosity — always calculating the odds.
 
 
@@ -39,7 +39,7 @@ I live at the edge of uncertainty and curiosity — always calculating the odds.
 
 ---
 
-> I don't chase rabbits.
+> I don't chase rabbits.  
 > I write the paths they're trying to hide.
 
 
