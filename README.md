@@ -3,6 +3,7 @@
 Part statistician, part explorer, full-time question asker.
 I live at the edge of uncertainty and curiosity — always calculating the odds.
 
+
 🎓 Major in Statistics, Minor in Computer Engineering @ Hacettepe University
 
 ---
@@ -40,3 +41,5 @@ I live at the edge of uncertainty and curiosity — always calculating the odds.
 
 > I don't chase rabbits.
 > I write the paths they're trying to hide.
+
+
